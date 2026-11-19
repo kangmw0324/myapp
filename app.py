@@ -1,6 +1,6 @@
 import streamlit as st 
 
-st.title("상자그림 수업 도구")
+st.title("상자그림 수업 도구!!")
 st.info("먼저 학번을 입력해주세요. 활동 결과는 이 학번으로 저장이 됩니다. ")
 # alt + z(window) / option + z(mac)
 
